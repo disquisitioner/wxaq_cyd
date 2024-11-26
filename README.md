@@ -8,4 +8,6 @@ I find it both helpful and fun to approach a new board with a useful project tha
 
 ![Weather Aggregator CYD](assets/wxaq_cyd.jpg)
 
-I don't expect this project will be directly useful to anyone else, given it depends on understanding the data schema and dweet.io publishing format my IoT devices use, but the overall structure and some of the specific aspects might be of interest (like using built-in HTTP client support and the marvelous ArduinoJson library to fetch and parse data from a web service).
+I don't expect this project will be directly useful to anyone else, given it depends on understanding the data schema and [dweet.io publishing format](dweet_formats.md) my IoT devices use, but the overall structure and some of the specific aspects might be of interest (like using built-in HTTP client support and the marvelous ArduinoJson library to fetch and parse data from a web service).  
+
+I'm delighted with my first CYD experience and look forward to using it in future projects.
